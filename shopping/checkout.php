@@ -86,7 +86,7 @@
         <script
           src="https://checkout.stripe.com/checkout.js"
           class="stripe-button"
-          data-key="pk_test_51Q0NfI09EtHGwjDiTGjIgsLaKhJ6IkeC5hbkk6YcF0yRPChA1yN0dJAvtiLUJ7X2xenjTXsVNJ4QygeLv8CwYaYo00NgUoMdCW"
+          data-key=""
           data-currency="usd"
           data-label="Pagar">
         </script>
